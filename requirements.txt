@@ -1,5 +1,2 @@
-streamlit
 pdfplumber
-pandas
 wordsegment
-watchdog
